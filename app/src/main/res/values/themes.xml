@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.KhataCash" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/surface_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <color name="primary">#0A5C36</color>
+    <color name="primary_dark">#053B22</color>
+    <color name="primary_light">#E8F5E9</color>
+    <color name="accent_gold">#F59E0B</color>
+    
+    <color name="status_due_red">#D32F2F</color>
+    <color name="status_due_red_bg">#FFEBEE</color>
+    <color name="status_received_green">#2E7D32</color>
+    <color name="status_received_green_bg">#E8F8F0</color>
+    
+    <color name="surface_background">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="border_color">#E2E8F0</color>
+</resources>

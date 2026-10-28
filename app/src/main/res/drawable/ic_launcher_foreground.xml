@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Book / Ledger Icon with Bengali Taka / Currency glyph -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,24 C30.9,24 30,24.9 30,26 L30,82 C30,83.1 30.9,84 32,84 L76,84 C77.1,84 78,83.1 78,82 L78,26 C78,24.9 77.1,24 76,24 L32,24 Z M36,30 L72,30 L72,78 L36,78 L36,30 Z"/>
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M48,38 L60,38 L60,44 L54,44 L54,48 L60,48 L60,54 L54,54 L54,66 L48,66 L48,54 L44,54 L44,48 L48,48 L48,44 L44,44 L44,38 L48,38 Z"/>
+</vector>

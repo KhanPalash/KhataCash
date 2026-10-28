@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">KhataCash</string>
+    <string name="app_name_bengali">খাতাক্যাশ</string>
+    <string name="tagline">ডিজিটাল খাতা ও ব্যবসার সঠিক হিসাব</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_dashboard">ড্যাশবোর্ড</string>
+    <string name="nav_customers">কাস্টমার</string>
+    <string name="nav_suppliers">সাপ্লায়ার</string>
+    <string name="nav_cashbox">ক্যাশ ও খরচ</string>
+    <string name="nav_inventory">পণ্য ও স্টক</string>
+    <string name="nav_reports">রিপোর্ট</string>
+    <string name="nav_settings">সেটিংস</string>
+
+    <!-- General Labels -->
+    <string name="currency_symbol">৳</string>
+    <string name="search_hint">নাম বা মোবাইল নাম্বার খুঁজুন...</string>
+    <string name="total_receivable">মোট পাবো (পাওনা)</string>
+    <string name="total_payable">মোট দেবো (দেনা)</string>
+    <string name="today_sales">আজকের বিক্রি</string>
+    <string name="today_collection">আজকের জমা</string>
+    <string name="today_expense">আজকের খরচ</string>
+    <string name="net_cash">বর্তমান ক্যাশ</string>
+
+    <!-- Actions -->
+    <string name="action_give_credit">বাকি দিলাম</string>
+    <string name="action_take_payment">টাকা পেলাম</string>
+    <string name="action_buy_credit">বাকি কিনলাম</string>
+    <string name="action_pay_supplier">টাকা দিলাম</string>
+    <string name="action_add_expense">খরচ যোগ</string>
+    <string name="action_send_reminder">তাগাদা পাঠান</string>
+    <string name="action_share_statement">হিসাব শেয়ার</string>
+    <string name="action_save">সংরক্ষণ করুন</string>
+    <string name="action_cancel">বাতিল</string>
+</resources>
